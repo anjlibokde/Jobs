@@ -8,7 +8,8 @@
         "Education": "B.E./B.Tech in Computer Science or IT",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Design, develop, and maintain enterprise-level applications."
+        "JobDescription": "Design, develop, and maintain enterprise-level applications.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
     },
     {
         "Id": "2",
@@ -19,7 +20,8 @@
         "Education": "B.Sc/B.Tech in Computer Science, Statistics, or related fields",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Analyze business data, create reports, and generate insights."
+        "JobDescription": "Analyze business data, create reports, and generate insights.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
         "Id": "3",
@@ -30,7 +32,8 @@
         "Education": "MBA/PGDM in Marketing or related fields",
         "JobType": "Full-Time",
         "Shift": "Rotational Shift",
-        "JobDescription": "Plan and execute digital marketing campaigns."
+        "JobDescription": "Plan and execute digital marketing campaigns.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
     },
     {
         "Id": "4",
@@ -41,7 +44,8 @@
         "Education": "MBA in Human Resource Management",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Manage end-to-end recruitment process."
+        "JobDescription": "Manage end-to-end recruitment process.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
     },
     {
         "Id": "5",
@@ -52,7 +56,8 @@
         "Education": "B.E./B.Tech in Mechanical Engineering",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Design and oversee mechanical systems manufacturing."
+        "JobDescription": "Design and oversee mechanical systems manufacturing.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
     },
     {
         "Id": "6",
@@ -63,7 +68,8 @@
         "Education": "B.E./B.Tech in Computer Science or IT",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Design and implement cloud-based solutions."
+        "JobDescription": "Design and implement cloud-based solutions.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
     },
     {
         "Id": "7",
@@ -74,7 +80,8 @@
         "Education": "MBA or Bachelor's in Business Administration",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Analyze business processes and recommend solutions."
+        "JobDescription": "Analyze business processes and recommend solutions.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
         "Id": "8",
@@ -85,7 +92,8 @@
         "Education": "Bachelor’s in Graphic Design or Fine Arts",
         "JobType": "Contract",
         "Shift": "Flexible",
-        "JobDescription": "Create visually appealing designs for digital and print media."
+        "JobDescription": "Create visually appealing designs for digital and print media.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
         "Id": "9",
@@ -96,7 +104,8 @@
         "Education": "B.Tech/B.E. in Cyber Security or Information Security",
         "JobType": "Full-Time",
         "Shift": "Rotational Shift",
-        "JobDescription": "Monitor and prevent cybersecurity threats."
+        "JobDescription": "Monitor and prevent cybersecurity threats.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
         "Id": "10",
@@ -107,7 +116,8 @@
         "Education": "B.Tech/B.E. in Civil Engineering",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Oversee construction projects and ensure timely completion."
+        "JobDescription": "Oversee construction projects and ensure timely completion.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
     },
     {
         "Id": "11",
@@ -118,7 +128,8 @@
         "Education": "Bachelor’s in English, Journalism, or Mass Communication",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Create engaging content for educational platforms."
+        "JobDescription": "Create engaging content for educational platforms.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
     },
     {
         "Id": "12",
@@ -129,7 +140,8 @@
         "Education": "B.E./B.Tech/M.Tech in AI, Data Science, or related field",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Develop and deploy AI-driven solutions."
+        "JobDescription": "Develop and deploy AI-driven solutions.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
     },
     {
         "Id": "13",
@@ -140,7 +152,8 @@
         "Education": "MBA/BBA in Sales & Marketing",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Acquire customers, promote digital payment solutions."
+        "JobDescription": "Acquire customers, promote digital payment solutions.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
         "Id": "14",
@@ -151,7 +164,8 @@
         "Education": "B.Pharm/M.Pharm in Pharmacy",
         "JobType": "Full-Time",
         "Shift": "Rotational Shift",
-        "JobDescription": "Manage prescriptions and medication counseling."
+        "JobDescription": "Manage prescriptions and medication counseling.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
     },
     {
         "Id": "15",
@@ -162,340 +176,11 @@
         "Education": "Bachelor’s in Design, UI/UX, or related field",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Create user-friendly designs for e-commerce platforms."
+        "JobDescription": "Create user-friendly designs for e-commerce platforms.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
     },
     {
         "Id": "16",
-        "JobTitle": "Software Developer",
-        "CompanyName": "TCS (Tata Consultancy Services)",
-        "Address": "Mumbai, Maharashtra",
-        "RequiredSkills": "Java, Spring Boot, SQL, REST APIs, Microservices",
-        "Education": "B.E./B.Tech in Computer Science or IT",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design, develop, and maintain enterprise-level applications."
-    },
-    {
-        "Id": "17",
-        "JobTitle": "Data Analyst",
-        "CompanyName": "Infosys",
-        "Address": "Bengaluru, Karnataka",
-        "RequiredSkills": "Python, SQL, Tableau, Power BI, Data Visualization",
-        "Education": "B.Sc/B.Tech in Computer Science, Statistics, or related fields",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Analyze business data, create reports, and generate insights."
-    },
-    {
-        "Id": "18",
-        "JobTitle": "Digital Marketing Executive",
-        "CompanyName": "Wipro",
-        "Address": "Hyderabad, Telangana",
-        "RequiredSkills": "SEO, SEM, Social Media Marketing, Google Ads, Analytics",
-        "Education": "MBA/PGDM in Marketing or related fields",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Plan and execute digital marketing campaigns."
-    },
-    {
-        "Id": "19",
-        "JobTitle": "HR Recruiter",
-        "CompanyName": "HCL Technologies",
-        "Address": "Noida, Uttar Pradesh",
-        "RequiredSkills": "Recruitment, Talent Acquisition, Communication, ATS Tools",
-        "Education": "MBA in Human Resource Management",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Manage end-to-end recruitment process."
-    },
-    {
-        "Id": "20",
-        "JobTitle": "Mechanical Engineer",
-        "CompanyName": "Larsen & Toubro (L&T)",
-        "Address": "Chennai, Tamil Nadu",
-        "RequiredSkills": "AutoCAD, SolidWorks, Manufacturing Processes, Quality Control",
-        "Education": "B.E./B.Tech in Mechanical Engineering",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design and oversee mechanical systems manufacturing."
-    },
-    {
-        "Id": "21",
-        "JobTitle": "Cloud Engineer",
-        "CompanyName": "Tech Mahindra",
-        "Address": "Pune, Maharashtra",
-        "RequiredSkills": "AWS, Azure, Docker, Kubernetes, Terraform",
-        "Education": "B.E./B.Tech in Computer Science or IT",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design and implement cloud-based solutions."
-    },
-    {
-        "Id": "22",
-        "JobTitle": "Business Analyst",
-        "CompanyName": "Accenture",
-        "Address": "Gurugram, Haryana",
-        "RequiredSkills": "Business Intelligence, SQL, Data Analytics, Agile Methodologies",
-        "Education": "MBA or Bachelor's in Business Administration",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Analyze business processes and recommend solutions."
-    },
-    {
-        "Id": "23",
-        "JobTitle": "Graphic Designer",
-        "CompanyName": "Zomato",
-        "Address": "New Delhi",
-        "RequiredSkills": "Adobe Photoshop, Illustrator, Figma, Canva, UI/UX Design",
-        "Education": "Bachelor’s in Graphic Design or Fine Arts",
-        "JobType": "Contract",
-        "Shift": "Flexible",
-        "JobDescription": "Create visually appealing designs for digital and print media."
-    },
-    {
-        "Id": "24",
-        "JobTitle": "Cyber Security Analyst",
-        "CompanyName": "Cognizant",
-        "Address": "Chennai, Tamil Nadu",
-        "RequiredSkills": "Network Security, Ethical Hacking, Penetration Testing, SIEM Tools",
-        "Education": "B.Tech/B.E. in Cyber Security or Information Security",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Monitor and prevent cybersecurity threats."
-    },
-    {
-        "Id": "25",
-        "JobTitle": "Civil Engineer",
-        "CompanyName": "Godrej Properties",
-        "Address": "Bangalore, Karnataka",
-        "RequiredSkills": "AutoCAD, STAAD Pro, Structural Design, Construction Management",
-        "Education": "B.Tech/B.E. in Civil Engineering",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Oversee construction projects and ensure timely completion."
-    },
-    {
-        "Id": "26",
-        "JobTitle": "Content Writer",
-        "CompanyName": "Byju’s",
-        "Address": "Bengaluru, Karnataka",
-        "RequiredSkills": "SEO Writing, Blogging, Copywriting, Proofreading, Content Strategy",
-        "Education": "Bachelor’s in English, Journalism, or Mass Communication",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Create engaging content for educational platforms."
-    },
-    {
-        "Id": "27",
-        "JobTitle": "Artificial Intelligence Engineer",
-        "CompanyName": "Reliance Jio",
-        "Address": "Navi Mumbai, Maharashtra",
-        "RequiredSkills": "Machine Learning, Deep Learning, Python, TensorFlow, NLP",
-        "Education": "B.E./B.Tech/M.Tech in AI, Data Science, or related field",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Develop and deploy AI-driven solutions."
-    },
-    {
-        "Id": "28",
-        "JobTitle": "Sales Executive",
-        "CompanyName": "Paytm",
-        "Address": "Lucknow, Uttar Pradesh",
-        "RequiredSkills": "Sales, Negotiation, Customer Relationship, CRM Software",
-        "Education": "MBA/BBA in Sales & Marketing",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Acquire customers, promote digital payment solutions."
-    },
-    {
-        "Id": "29",
-        "JobTitle": "Pharmacist",
-        "CompanyName": "Apollo Hospitals",
-        "Address": "Hyderabad, Telangana",
-        "RequiredSkills": "Pharmacology, Drug Dispensing, Medical Compliance, Inventory Management",
-        "Education": "B.Pharm/M.Pharm in Pharmacy",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Manage prescriptions and medication counseling."
-    },
-    {
-        "Id": "30",
-        "JobTitle": "UI/UX Designer",
-        "CompanyName": "Flipkart",
-        "Address": "Bangalore, Karnataka",
-        "RequiredSkills": "Figma, Adobe XD, Wireframing, User Research, Prototyping",
-        "Education": "Bachelor’s in Design, UI/UX, or related field",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Create user-friendly designs for e-commerce platforms."
-    },
-    {
-        "Id": "31",
-        "JobTitle": "Software Developer",
-        "CompanyName": "TCS (Tata Consultancy Services)",
-        "Address": "Mumbai, Maharashtra",
-        "RequiredSkills": "Java, Spring Boot, SQL, REST APIs, Microservices",
-        "Education": "B.E./B.Tech in Computer Science or IT",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design, develop, and maintain enterprise-level applications."
-    },
-    {
-        "Id": "32",
-        "JobTitle": "Data Analyst",
-        "CompanyName": "Infosys",
-        "Address": "Bengaluru, Karnataka",
-        "RequiredSkills": "Python, SQL, Tableau, Power BI, Data Visualization",
-        "Education": "B.Sc/B.Tech in Computer Science, Statistics, or related fields",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Analyze business data, create reports, and generate insights."
-    },
-    {
-        "Id": "33",
-        "JobTitle": "Digital Marketing Executive",
-        "CompanyName": "Wipro",
-        "Address": "Hyderabad, Telangana",
-        "RequiredSkills": "SEO, SEM, Social Media Marketing, Google Ads, Analytics",
-        "Education": "MBA/PGDM in Marketing or related fields",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Plan and execute digital marketing campaigns."
-    },
-    {
-        "Id": "34",
-        "JobTitle": "HR Recruiter",
-        "CompanyName": "HCL Technologies",
-        "Address": "Noida, Uttar Pradesh",
-        "RequiredSkills": "Recruitment, Talent Acquisition, Communication, ATS Tools",
-        "Education": "MBA in Human Resource Management",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Manage end-to-end recruitment process."
-    },
-    {
-        "Id": "35",
-        "JobTitle": "Mechanical Engineer",
-        "CompanyName": "Larsen & Toubro (L&T)",
-        "Address": "Chennai, Tamil Nadu",
-        "RequiredSkills": "AutoCAD, SolidWorks, Manufacturing Processes, Quality Control",
-        "Education": "B.E./B.Tech in Mechanical Engineering",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design and oversee mechanical systems manufacturing."
-    },
-    {
-        "Id": "36",
-        "JobTitle": "Cloud Engineer",
-        "CompanyName": "Tech Mahindra",
-        "Address": "Pune, Maharashtra",
-        "RequiredSkills": "AWS, Azure, Docker, Kubernetes, Terraform",
-        "Education": "B.E./B.Tech in Computer Science or IT",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Design and implement cloud-based solutions."
-    },
-    {
-        "Id": "37",
-        "JobTitle": "Business Analyst",
-        "CompanyName": "Accenture",
-        "Address": "Gurugram, Haryana",
-        "RequiredSkills": "Business Intelligence, SQL, Data Analytics, Agile Methodologies",
-        "Education": "MBA or Bachelor's in Business Administration",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Analyze business processes and recommend solutions."
-    },
-    {
-        "Id": "38",
-        "JobTitle": "Graphic Designer",
-        "CompanyName": "Zomato",
-        "Address": "New Delhi",
-        "RequiredSkills": "Adobe Photoshop, Illustrator, Figma, Canva, UI/UX Design",
-        "Education": "Bachelor’s in Graphic Design or Fine Arts",
-        "JobType": "Contract",
-        "Shift": "Flexible",
-        "JobDescription": "Create visually appealing designs for digital and print media."
-    },
-    {
-        "Id": "39",
-        "JobTitle": "Cyber Security Analyst",
-        "CompanyName": "Cognizant",
-        "Address": "Chennai, Tamil Nadu",
-        "RequiredSkills": "Network Security, Ethical Hacking, Penetration Testing, SIEM Tools",
-        "Education": "B.Tech/B.E. in Cyber Security or Information Security",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Monitor and prevent cybersecurity threats."
-    },
-    {
-        "Id": "40",
-        "JobTitle": "Civil Engineer",
-        "CompanyName": "Godrej Properties",
-        "Address": "Bangalore, Karnataka",
-        "RequiredSkills": "AutoCAD, STAAD Pro, Structural Design, Construction Management",
-        "Education": "B.Tech/B.E. in Civil Engineering",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Oversee construction projects and ensure timely completion."
-    },
-    {
-        "Id": "41",
-        "JobTitle": "Content Writer",
-        "CompanyName": "Byju’s",
-        "Address": "Bengaluru, Karnataka",
-        "RequiredSkills": "SEO Writing, Blogging, Copywriting, Proofreading, Content Strategy",
-        "Education": "Bachelor’s in English, Journalism, or Mass Communication",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Create engaging content for educational platforms."
-    },
-    {
-        "Id": "42",
-        "JobTitle": "Artificial Intelligence Engineer",
-        "CompanyName": "Reliance Jio",
-        "Address": "Navi Mumbai, Maharashtra",
-        "RequiredSkills": "Machine Learning, Deep Learning, Python, TensorFlow, NLP",
-        "Education": "B.E./B.Tech/M.Tech in AI, Data Science, or related field",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Develop and deploy AI-driven solutions."
-    },
-    {
-        "Id": "43",
-        "JobTitle": "Sales Executive",
-        "CompanyName": "Paytm",
-        "Address": "Lucknow, Uttar Pradesh",
-        "RequiredSkills": "Sales, Negotiation, Customer Relationship, CRM Software",
-        "Education": "MBA/BBA in Sales & Marketing",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Acquire customers, promote digital payment solutions."
-    },
-    {
-        "Id": "44",
-        "JobTitle": "Pharmacist",
-        "CompanyName": "Apollo Hospitals",
-        "Address": "Hyderabad, Telangana",
-        "RequiredSkills": "Pharmacology, Drug Dispensing, Medical Compliance, Inventory Management",
-        "Education": "B.Pharm/M.Pharm in Pharmacy",
-        "JobType": "Full-Time",
-        "Shift": "Rotational Shift",
-        "JobDescription": "Manage prescriptions and medication counseling."
-    },
-    {
-        "Id": "45",
-        "JobTitle": "UI/UX Designer",
-        "CompanyName": "Flipkart",
-        "Address": "Bangalore, Karnataka",
-        "RequiredSkills": "Figma, Adobe XD, Wireframing, User Research, Prototyping",
-        "Education": "Bachelor’s in Design, UI/UX, or related field",
-        "JobType": "Full-Time",
-        "Shift": "Day Shift",
-        "JobDescription": "Create user-friendly designs for e-commerce platforms."
-    },
-    {
-        "Id": "46",
         "JobTitle": "Electrical Engineer",
         "CompanyName": "Siemens",
         "Address": "Pune, Maharashtra",
@@ -503,10 +188,11 @@
         "Education": "B.E./B.Tech in Electrical Engineering",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Design and analyze electrical systems for industrial applications."
+        "JobDescription": "Design and analyze electrical systems for industrial applications.",
+        "Stipend": "₹10,00,000 - ₹20,00,000"
     },
     {
-        "Id": "47",
+        "Id": "17",
         "JobTitle": "Backend Developer",
         "CompanyName": "Amazon India",
         "Address": "Hyderabad, Telangana",
@@ -514,10 +200,11 @@
         "Education": "B.E./B.Tech in Computer Science or IT",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Develop and maintain scalable backend services."
+        "JobDescription": "Develop and maintain scalable backend services.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
     },
     {
-        "Id": "48",
+        "Id": "18",
         "JobTitle": "Front-end Developer",
         "CompanyName": "Google India",
         "Address": "Bangalore, Karnataka",
@@ -525,10 +212,11 @@
         "Education": "B.E./B.Tech in Computer Science or IT",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Build interactive and responsive web applications."
+        "JobDescription": "Build interactive and responsive web applications.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
     },
     {
-        "Id": "49",
+        "Id": "19",
         "JobTitle": "Blockchain Developer",
         "CompanyName": "Polygon",
         "Address": "Mumbai, Maharashtra",
@@ -536,10 +224,11 @@
         "Education": "B.E./B.Tech in Computer Science or IT",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Develop and optimize blockchain applications."
+        "JobDescription": "Develop and optimize blockchain applications.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     },
     {
-        "Id": "50",
+        "Id": "20",
         "JobTitle": "Game Developer",
         "CompanyName": "Ubisoft India",
         "Address": "Pune, Maharashtra",
@@ -547,6 +236,367 @@
         "Education": "B.E./B.Tech in Computer Science or Game Development",
         "JobType": "Full-Time",
         "Shift": "Day Shift",
-        "JobDescription": "Design and develop engaging video games."
+        "JobDescription": "Design and develop engaging video games.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "21",
+        "JobTitle": "Software Developer",
+        "CompanyName": "TCS (Tata Consultancy Services)",
+        "Address": "Mumbai, Maharashtra",
+        "RequiredSkills": "Java, Spring Boot, SQL, REST APIs, Microservices",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design, develop, and maintain enterprise-level applications.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "22",
+        "JobTitle": "Data Analyst",
+        "CompanyName": "Infosys",
+        "Address": "Bengaluru, Karnataka",
+        "RequiredSkills": "Python, SQL, Tableau, Power BI, Data Visualization",
+        "Education": "B.Sc/B.Tech in Computer Science, Statistics, or related fields",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Analyze business data, create reports, and generate insights.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "23",
+        "JobTitle": "Digital Marketing Executive",
+        "CompanyName": "Wipro",
+        "Address": "Hyderabad, Telangana",
+        "RequiredSkills": "SEO, SEM, Social Media Marketing, Google Ads, Analytics",
+        "Education": "MBA/PGDM in Marketing or related fields",
+        "JobType": "Full-Time",
+        "Shift": "Rotational Shift",
+        "JobDescription": "Plan and execute digital marketing campaigns.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "24",
+        "JobTitle": "HR Recruiter",
+        "CompanyName": "HCL Technologies",
+        "Address": "Noida, Uttar Pradesh",
+        "RequiredSkills": "Recruitment, Talent Acquisition, Communication, ATS Tools",
+        "Education": "MBA in Human Resource Management",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Manage end-to-end recruitment process.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
+    },
+    {
+        "Id": "25",
+        "JobTitle": "Mechanical Engineer",
+        "CompanyName": "Larsen & Toubro (L&T)",
+        "Address": "Chennai, Tamil Nadu",
+        "RequiredSkills": "AutoCAD, SolidWorks, Manufacturing Processes, Quality Control",
+        "Education": "B.E./B.Tech in Mechanical Engineering",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and oversee mechanical systems manufacturing.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
+    },
+    {
+        "Id": "26",
+        "JobTitle": "Cloud Engineer",
+        "CompanyName": "Tech Mahindra",
+        "Address": "Pune, Maharashtra",
+        "RequiredSkills": "AWS, Azure, Docker, Kubernetes, Terraform",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and implement cloud-based solutions.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "27",
+        "JobTitle": "Business Analyst",
+        "CompanyName": "Accenture",
+        "Address": "Gurugram, Haryana",
+        "RequiredSkills": "Business Intelligence, SQL, Data Analytics, Agile Methodologies",
+        "Education": "MBA or Bachelor's in Business Administration",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Analyze business processes and recommend solutions.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "28",
+        "JobTitle": "Graphic Designer",
+        "CompanyName": "Zomato",
+        "Address": "New Delhi",
+        "RequiredSkills": "Adobe Photoshop, Illustrator, Figma, Canva, UI/UX Design",
+        "Education": "Bachelor’s in Graphic Design or Fine Arts",
+        "JobType": "Contract",
+        "Shift": "Flexible",
+        "JobDescription": "Create visually appealing designs for digital and print media.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "29",
+        "JobTitle": "Cyber Security Analyst",
+        "CompanyName": "Cognizant",
+        "Address": "Chennai, Tamil Nadu",
+        "RequiredSkills": "Network Security, Ethical Hacking, Penetration Testing, SIEM Tools",
+        "Education": "B.Tech/B.E. in Cyber Security or Information Security",
+        "JobType": "Full-Time",
+        "Shift": "Rotational Shift",
+        "JobDescription": "Monitor and prevent cybersecurity threats.",
+        "Stipend": "₹10,00,000 - ₹20,00,000"
+    },
+    {
+        "Id": "30",
+        "JobTitle": "Civil Engineer",
+        "CompanyName": "Godrej Properties",
+        "Address": "Bangalore, Karnataka",
+        "RequiredSkills": "AutoCAD, STAAD Pro, Structural Design, Construction Management",
+        "Education": "B.Tech/B.E. in Civil Engineering",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Oversee construction projects and ensure timely completion.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
+    },
+    {
+        "Id": "31",
+        "JobTitle": "Content Writer",
+        "CompanyName": "Byju’s",
+        "Address": "Bengaluru, Karnataka",
+        "RequiredSkills": "SEO Writing, Blogging, Copywriting, Proofreading, Content Strategy",
+        "Education": "Bachelor’s in English, Journalism, or Mass Communication",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Create engaging content for educational platforms.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "32",
+        "JobTitle": "Artificial Intelligence Engineer",
+        "CompanyName": "Reliance Jio",
+        "Address": "Navi Mumbai, Maharashtra",
+        "RequiredSkills": "Machine Learning, Deep Learning, Python, TensorFlow, NLP",
+        "Education": "B.E./B.Tech/M.Tech in AI, Data Science, or related field",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Develop and deploy AI-driven solutions.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "33",
+        "JobTitle": "Sales Executive",
+        "CompanyName": "Paytm",
+        "Address": "Lucknow, Uttar Pradesh",
+        "RequiredSkills": "Sales, Negotiation, Customer Relationship, CRM Software",
+        "Education": "MBA/BBA in Sales & Marketing",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Acquire customers, promote digital payment solutions.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "34",
+        "JobTitle": "Pharmacist",
+        "CompanyName": "Apollo Hospitals",
+        "Address": "Hyderabad, Telangana",
+        "RequiredSkills": "Pharmacology, Drug Dispensing, Medical Compliance, Inventory Management",
+        "Education": "B.Pharm/M.Pharm in Pharmacy",
+        "JobType": "Full-Time",
+        "Shift": "Rotational Shift",
+        "JobDescription": "Manage prescriptions and medication counseling.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "35",
+        "JobTitle": "UI/UX Designer",
+        "CompanyName": "Flipkart",
+        "Address": "Bangalore, Karnataka",
+        "RequiredSkills": "Figma, Adobe XD, Wireframing, User Research, Prototyping",
+        "Education": "Bachelor’s in Design, UI/UX, or related field",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Create user-friendly designs for e-commerce platforms.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "36",
+        "JobTitle": "Electrical Engineer",
+        "CompanyName": "Siemens",
+        "Address": "Pune, Maharashtra",
+        "RequiredSkills": "Circuit Design, Power Systems, AutoCAD, MATLAB",
+        "Education": "B.E./B.Tech in Electrical Engineering",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and analyze electrical systems for industrial applications.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
+    },
+    {
+        "Id": "37",
+        "JobTitle": "Backend Developer",
+        "CompanyName": "Amazon India",
+        "Address": "Hyderabad, Telangana",
+        "RequiredSkills": "Node.js, Express.js, MongoDB, AWS, Docker",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Develop and maintain scalable backend services.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
+    },
+    {
+        "Id": "38",
+        "JobTitle": "Front-end Developer",
+        "CompanyName": "Google India",
+        "Address": "Bangalore, Karnataka",
+        "RequiredSkills": "React.js, JavaScript, CSS, HTML, UI Design",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Build interactive and responsive web applications.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "39",
+        "JobTitle": "Blockchain Developer",
+        "CompanyName": "Polygon",
+        "Address": "Mumbai, Maharashtra",
+        "RequiredSkills": "Solidity, Ethereum, Smart Contracts, Web3.js",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Develop and optimize blockchain applications.",
+        "Stipend": "₹7,00,000 - ₹12,00,000"
+    },
+    {
+        "Id": "40",
+        "JobTitle": "Game Developer",
+        "CompanyName": "Ubisoft India",
+        "Address": "Pune, Maharashtra",
+        "RequiredSkills": "Unity, C#, Unreal Engine, Game Physics",
+        "Education": "B.E./B.Tech in Computer Science or Game Development",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and develop engaging video games.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "41",
+        "JobTitle": "Software Developer",
+        "CompanyName": "TCS (Tata Consultancy Services)",
+        "Address": "Mumbai, Maharashtra",
+        "RequiredSkills": "Java, Spring Boot, SQL, REST APIs, Microservices",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design, develop, and maintain enterprise-level applications.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "42",
+        "JobTitle": "Data Analyst",
+        "CompanyName": "Infosys",
+        "Address": "Bengaluru, Karnataka",
+        "RequiredSkills": "Python, SQL, Tableau, Power BI, Data Visualization",
+        "Education": "B.Sc/B.Tech in Computer Science, Statistics, or related fields",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Analyze business data, create reports, and generate insights.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "43",
+        "JobTitle": "Digital Marketing Executive",
+        "CompanyName": "Wipro",
+        "Address": "Hyderabad, Telangana",
+        "RequiredSkills": "SEO, SEM, Social Media Marketing, Google Ads, Analytics",
+        "Education": "MBA/PGDM in Marketing or related fields",
+        "JobType": "Full-Time",
+        "Shift": "Rotational Shift",
+        "JobDescription": "Plan and execute digital marketing campaigns.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
+    },
+    {
+        "Id": "44",
+        "JobTitle": "HR Recruiter",
+        "CompanyName": "HCL Technologies",
+        "Address": "Noida, Uttar Pradesh",
+        "RequiredSkills": "Recruitment, Talent Acquisition, Communication, ATS Tools",
+        "Education": "MBA in Human Resource Management",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Manage end-to-end recruitment process.",
+        "Stipend": "₹6,00,000 - ₹10,00,000"
+    },
+    {
+        "Id": "45",
+        "JobTitle": "Mechanical Engineer",
+        "CompanyName": "Larsen & Toubro (L&T)",
+        "Address": "Chennai, Tamil Nadu",
+        "RequiredSkills": "AutoCAD, SolidWorks, Manufacturing Processes, Quality Control",
+        "Education": "B.E./B.Tech in Mechanical Engineering",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and oversee mechanical systems manufacturing.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
+    },
+    {
+        "Id": "46",
+        "JobTitle": "Cloud Engineer",
+        "CompanyName": "Tech Mahindra",
+        "Address": "Pune, Maharashtra",
+        "RequiredSkills": "AWS, Azure, Docker, Kubernetes, Terraform",
+        "Education": "B.E./B.Tech in Computer Science or IT",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Design and implement cloud-based solutions.",
+        "Stipend": "₹4,00,000 - ₹6,50,000"
+    },
+    {
+        "Id": "47",
+        "JobTitle": "Business Analyst",
+        "CompanyName": "Accenture",
+        "Address": "Gurugram, Haryana",
+        "RequiredSkills": "Business Intelligence, SQL, Data Analytics, Agile Methodologies",
+        "Education": "MBA or Bachelor's in Business Administration",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Analyze business processes and recommend solutions.",
+        "Stipend": "₹3,00,000 - ₹5,00,000"
+    },
+    {
+        "Id": "48",
+        "JobTitle": "Graphic Designer",
+        "CompanyName": "Zomato",
+        "Address": "New Delhi",
+        "RequiredSkills": "Adobe Photoshop, Illustrator, Figma, Canva, UI/UX Design",
+        "Education": "Bachelor’s in Graphic Design or Fine Arts",
+        "JobType": "Contract",
+        "Shift": "Flexible",
+        "JobDescription": "Create visually appealing designs for digital and print media.",
+        "Stipend": "₹5,00,000 - ₹8,00,000"
+    },
+    {
+        "Id": "49",
+        "JobTitle": "Cyber Security Analyst",
+        "CompanyName": "Cognizant",
+        "Address": "Chennai, Tamil Nadu",
+        "RequiredSkills": "Network Security, Ethical Hacking, Penetration Testing, SIEM Tools",
+        "Education": "B.Tech/B.E. in Cyber Security or Information Security",
+        "JobType": "Full-Time",
+        "Shift": "Rotational Shift",
+        "JobDescription": "Monitor and prevent cybersecurity threats.",
+        "Stipend": "₹10,00,000 - ₹20,00,000"
+    },
+    {
+        "Id": "50",
+        "JobTitle": "Civil Engineer",
+        "CompanyName": "Godrej Properties",
+        "Address": "Bangalore, Karnataka",
+        "RequiredSkills": "AutoCAD, STAAD Pro, Structural Design, Construction Management",
+        "Education": "B.Tech/B.E. in Civil Engineering",
+        "JobType": "Full-Time",
+        "Shift": "Day Shift",
+        "JobDescription": "Oversee construction projects and ensure timely completion.",
+        "Stipend": "₹8,00,000 - ₹15,00,000"
     }
 ]

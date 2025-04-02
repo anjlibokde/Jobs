@@ -9,7 +9,9 @@
         "JobType": "Full-Time",
         "Shift": "Day Shift",
         "JobDescription": "Design, develop, and maintain enterprise-level applications.",
-        "Stipend": "₹5,00,000 - ₹8,00,000"
+        "Stipend": "₹5,00,000 - ₹8,00,000",
+        "salary":15000
+        
     },
     {
         "Id": "2",

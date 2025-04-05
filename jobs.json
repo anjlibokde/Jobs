@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "role": "Software Developer",
         "company": "TCS (Tata Consultancy Services)",
         "address": "Mumbai, Maharashtra",
@@ -13,7 +13,7 @@
         "image": "https://images.seeklogo.com/logo-png/38/1/tata-consultancy-services-tcs-logo-png_seeklogo-385489.png"
     },
     {
-        "id": "2",
+        "id": 2,
         "role": "Data Analyst",
         "company": "TCS (Tata Consultancy Services)",
         "address": "Mumbai, Maharashtra",
@@ -26,7 +26,7 @@
         "image": "https://images.seeklogo.com/logo-png/38/1/tata-consultancy-services-tcs-logo-png_seeklogo-385489.png"
     },
     {
-        "id": "3",
+        "id": 3,
         "role": "Digital Marketing Executive",
         "company": "TCS (Tata Consultancy Services)",
         "address": "Mumbai, Maharashtra",
@@ -39,7 +39,7 @@
         "image": "https://images.seeklogo.com/logo-png/38/1/tata-consultancy-services-tcs-logo-png_seeklogo-385489.png"
     },
     {
-        "id": "4",
+        "id": 4,
         "role": "Data Analyst",
         "company": "Infosys",
         "address": "Bengaluru, Karnataka",
@@ -52,7 +52,7 @@
         "image": "https://images.seeklogo.com/logo-png/7/1/infosys-logo-png_seeklogo-71675.png"
     },
     {
-        "id": "5",
+        "id": 5,
         "role": "Cloud Engineer",
         "company": "Infosys",
         "address": "Bengaluru, Karnataka",
@@ -65,7 +65,7 @@
         "image": "https://images.seeklogo.com/logo-png/7/1/infosys-logo-png_seeklogo-71675.png"
     },
     {
-        "id": "6",
+        "id": 6,
         "role": "HR Recruiter",
         "company": "Infosys",
         "address": "Bengaluru, Karnataka",
@@ -78,7 +78,7 @@
         "image": "https://images.seeklogo.com/logo-png/7/1/infosys-logo-png_seeklogo-71675.png"
     },
     {
-        "id": "7",
+        "id": 7,
         "role": "Digital Marketing Executive",
         "company": "Wipro",
         "address": "Hyderabad, Telangana",
@@ -91,7 +91,7 @@
         "image": "https://seeklogo.com/images/W/wipro-logo-D96D8831A9-seeklogo.com.png"
     },
     {
-        "id": "8",
+        "id": 8,
         "role": "Cyber Security Analyst",
         "company": "Wipro",
         "address": "Hyderabad, Telangana",
@@ -104,7 +104,7 @@
         "image": "https://seeklogo.com/images/W/wipro-logo-D96D8831A9-seeklogo.com.png"
     },
     {
-        "id": "9",
+        "id": 9,
         "role": "HR Recruiter",
         "company": "HCL Technologies",
         "address": "Noida, Uttar Pradesh",
@@ -117,7 +117,7 @@
         "image": "https://images.seeklogo.com/logo-png/6/2/hcl-logo-png_seeklogo-65798.png"
     },
     {
-        "id": "10",
+        "id": 10,
         "role": "Mechanical Engineer",
         "company": "Larsen & Toubro (L&T)",
         "address": "Chennai, Tamil Nadu",
@@ -130,7 +130,7 @@
         "image": "https://images.seeklogo.com/logo-png/21/2/larsen-toubro-lt-logo-png_seeklogo-211460.png"
     },
     {
-        "id": "11",
+        "id": 11,
         "role": "Cloud Engineer",
         "company": "Tech Mahindra",
         "address": "Pune, Maharashtra",
@@ -143,7 +143,7 @@
         "image": "https://images.seeklogo.com/logo-png/30/2/tech-mahindra-logo-png_seeklogo-304147.png"
     },
     {
-        "id": "12",
+        "id": 12,
         "role": "Mechanical Engineer",
         "company": "Tech Mahindra",
         "address": "Pune, Maharashtra",
@@ -156,7 +156,7 @@
         "image": "https://images.seeklogo.com/logo-png/30/2/tech-mahindra-logo-png_seeklogo-304147.png"
     },
     {
-        "id": "13",
+        "id": 13,
         "role": "Business Analyst",
         "company": "Accenture",
         "address": "Gurugram, Haryana",
@@ -169,7 +169,7 @@
         "image": "https://images.seeklogo.com/logo-png/36/2/accenture-logo-png_seeklogo-369971.png"
     },
     {
-        "id": "14",
+        "id": 14,
         "role": "Graphic Designer",
         "company": "Zomato",
         "address": "New Delhi",
@@ -182,7 +182,7 @@
         "image": "https://images.seeklogo.com/logo-png/35/2/zomato-logo-png_seeklogo-354338.png"
     },
     {
-        "id": "15",
+        "id": 15,
         "role": "Cyber Security Analyst",
         "company": "Cognizant",
         "address": "Chennai, Tamil Nadu",
@@ -195,7 +195,7 @@
         "image": "https://images.seeklogo.com/logo-png/3/2/cognizant-technology-solutions-logo-png_seeklogo-33117.png"
     },
     {
-        "id": "16",
+        "id": 16,
         "role": "Civil Engineer",
         "company": "Godrej Properties",
         "address": "Bangalore, Karnataka",
@@ -208,7 +208,7 @@
         "image": "https://images.seeklogo.com/logo-png/6/2/godrej-logo-png_seeklogo-61760.png"
     },
     {
-        "id": "17",
+        "id": 17,
         "role": "Content Writer",
         "company": "Byju’s",
         "address": "Bengaluru, Karnataka",
@@ -221,7 +221,7 @@
         "image": "https://images.seeklogo.com/logo-png/36/2/byjus-logo-png_seeklogo-364776.png"
     },
     {
-        "id": "18",
+        "id": 18,
         "role": "Artificial Intelligence Engineer",
         "company": "Reliance Jio",
         "address": "Navi Mumbai, Maharashtra",
@@ -234,7 +234,7 @@
         "image": "https://images.seeklogo.com/logo-png/30/2/jio-logo-png_seeklogo-305444.png"
     },
     {
-        "id": "19",
+        "id": 19,
         "role": "Sales Executive",
         "company": "Paytm",
         "address": "Lucknow, Uttar Pradesh",
@@ -247,7 +247,7 @@
         "image": "https://images.seeklogo.com/logo-png/50/2/paytm-logo-png_seeklogo-501241.png"
     },
     {
-        "id": "20",
+        "id": 20,
         "role": "Pharmacist",
         "company": "Apollo Hospitals",
         "address": "Hyderabad, Telangana",
@@ -260,7 +260,7 @@
         "image": "https://images.seeklogo.com/logo-png/26/2/apollo-hospitals-logo-png_seeklogo-264932.png"
     },
     {
-        "id": "21",
+        "id": 21,
         "role": "UI/UX Designer",
         "company": "Flipkart",
         "address": "Bangalore, Karnataka",
@@ -273,7 +273,7 @@
         "image": "https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png"
     },
     {
-        "id": "22",
+        "id": 22,
         "role": "Backend Developer",
         "company": "Flipkart",
         "address": "Bangalore, Karnataka",
@@ -286,7 +286,7 @@
         "image": "https://seeklogo.com/images/F/flipkart-logo-3F33927DAA-seeklogo.com.png"
     },
     {
-        "id": "23",
+        "id": 23,
         "role": "Electrical Engineer",
         "company": "Siemens",
         "address": "Pune, Maharashtra",
@@ -299,7 +299,7 @@
         "image": "https://images.seeklogo.com/logo-png/20/2/siemens-logo-png_seeklogo-207379.png"
     },
     {
-        "id": "24",
+        "id": 24,
         "role": "Backend Developer",
         "company": "Amazon India",
         "address": "Hyderabad, Telangana",
@@ -312,7 +312,7 @@
         "image": "https://images.seeklogo.com/logo-png/28/2/amazon-logo-png_seeklogo-286206.png"
     },
     {
-        "id": "25",
+        "id": 25,
         "role": "Front-end Developer",
         "company": "Google India",
         "address": "Bangalore, Karnataka",
@@ -325,7 +325,7 @@
         "image": "https://images.seeklogo.com/logo-png/6/2/google-logo-png_seeklogo-62136.png"
     },
     {
-        "id": "26",
+        "id": 26,
         "role": "Blockchain Developer",
         "company": "Polygon",
         "address": "Mumbai, Maharashtra",
@@ -338,7 +338,7 @@
         "image": "https://seeklogo.com/images/P/polygon-matic-logo-7D8F780975-seeklogo.com.png"
     },
     {
-        "id": "27",
+        "id": 27,
         "role": "Game Developer",
         "company": "Ubisoft India",
         "address": "Pune, Maharashtra",
@@ -351,7 +351,7 @@
         "image": "https://seeklogo.com/images/U/ubisoft-logo-4472EA4558-seeklogo.com.png"
     },
     {
-        "id": "28",
+        "id": 28,
         "role": "Blockchain Developer",
         "company": "Ubisoft India",
         "address": "Pune, Maharashtra",
@@ -364,7 +364,7 @@
         "image": "https://seeklogo.com/images/U/ubisoft-logo-4472EA4558-seeklogo.com.png"
     },
     {
-        "id": "29",
+        "id": 29,
         "role": "Software Developer",
         "company": "Ubisoft India",
         "address": "Pune, Maharashtra",
@@ -377,7 +377,7 @@
         "image": "https://seeklogo.com/images/U/ubisoft-logo-4472EA4558-seeklogo.com.png"
     },
     {
-        "id": "30",
+        "id": 30,
         "role": "Game Developer",
         "company": "Ubisoft India",
         "address": "Pune, Maharashtra",
